@@ -1,5 +1,9 @@
 js
+  svelte
+
 php
+  laravel
+
 golang
 java
 typescript
