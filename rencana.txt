@@ -1,4 +1,6 @@
 js
+  react
+  vite
 php
 golang
 java
