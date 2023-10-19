@@ -1,9 +1,9 @@
 js
-  svelte
-
+  react
+  vite
+  vue
 php
   laravel
-
 golang
 java
 typescript
