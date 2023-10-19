@@ -2,3 +2,4 @@ js
 php
 golang
 java
+typescript
